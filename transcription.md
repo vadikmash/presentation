@@ -1,6 +1,7 @@
 # TypeScript
 ### Speaker Notes for presentation
 
+
 ## What is TypeScript?
 - A super set of JS
 - Very convinient and useful
